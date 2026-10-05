@@ -10,6 +10,16 @@ A native **workflow workspace for Dynamics 365 Finance**, bringing flow configur
 
 > **Free license application required.** Submit a request for WexaFlow. Softwexa reviews the application and confirms the product-specific tenant grant before access is activated.
 
+## Product screenshots
+
+Ready workflow packs in the development installation. Tenant and user context, private plan details and workspace identifiers are redacted. The screen shows workflow configuration for evaluation.
+
+<a href="./wexaflow-workspace-redacted.png">
+  <img src="./wexaflow-workspace-redacted.png" alt="WexaFlow development workspace showing ready workflow packs, with private tenant, account and plan details redacted" width="100%">
+</a>
+
+*Redacted development screenshot. Open the image to inspect the full-size interface.*
+
 ## Prepare a workflow inside Finance
 
 - **Native flow configuration:** prepare and review the structure of a business workflow.
