@@ -10,15 +10,38 @@ A native **workflow workspace for Dynamics 365 Finance**, bringing flow configur
 
 > **Free license application required.** Submit a request for WexaFlow. Softwexa reviews the application and confirms the product-specific tenant grant before access is activated.
 
-## Product screenshots
+## Demo images
 
-Ready workflow packs in the development installation. Tenant and user context, private plan details and workspace identifiers are redacted. The screen shows workflow configuration for evaluation.
+See the flow canvas, SQL node configuration and ready workflow packs. Click an image to view it at full size.
+
+<details>
+<summary><strong>Demo images</strong> — click to expand (3 images)</summary>
+
+### 1. Visual flow builder
+
+A connected five-node workflow with its canvas and inspector. This screenshot shows the local SQLite demo with synthetic sample data.
+
+<a href="./wexaflow-flow-builder.png">
+  <img src="./wexaflow-flow-builder.png" alt="WexaFlow visual flow builder showing a connected five-node canvas and inspector in the local SQLite demo" width="100%">
+</a>
+
+### 2. SQL node configuration
+
+The SQL node editor in the local SQLite sample environment, showing query preparation and its field and JOIN controls.
+
+<a href="./wexaflow-sql-node.png">
+  <img src="./wexaflow-sql-node.png" alt="WexaFlow SQL node configuration with the query editor and JOIN controls in the local SQLite sample environment" width="100%">
+</a>
+
+### 3. Ready workflow packs in Dynamics 365 Finance
+
+Ready workflow packs in the Finance development installation. Tenant and user context, private plan details and workspace identifiers are redacted. The screen shows workflow configuration for evaluation.
 
 <a href="./wexaflow-workspace-redacted.png">
   <img src="./wexaflow-workspace-redacted.png" alt="WexaFlow development workspace showing ready workflow packs, with private tenant, account and plan details redacted" width="100%">
 </a>
 
-*Redacted development screenshot. Open the image to inspect the full-size interface.*
+</details>
 
 ## Prepare a workflow inside Finance
 
